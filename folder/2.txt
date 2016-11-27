@@ -8,4 +8,4 @@ Cool feature
 
 Part of Text
 BBB For history
-Buggy fix(!) /*Unwanted text 1, 2,   ZZZZZZZZ
+Buggy fix(!) /*Unwanted text 1, 2,
