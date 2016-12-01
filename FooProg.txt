@@ -1,6 +1,9 @@
 This is foo prod
 
 h1. Chapter 1
+Func 1
+Func 2
+Func 3
 
 h1. Chapter 2
 
