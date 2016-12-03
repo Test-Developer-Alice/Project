@@ -9,6 +9,7 @@ Func 5
 Func 6
 
 h1. Chapter 2
+Method 1
 
 h1. Chapter 3
 Proc 1
