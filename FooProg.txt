@@ -1,4 +1,4 @@
-This is foo prod
+This is foo prod. Add text
 
 h1. Chapter 1
 Func 1  {}
@@ -22,6 +22,6 @@ Proc 4
 Proc 5
 
 h1. Chapter 4
-f {}
+f {} # Add doc
 p {}
 q {}
