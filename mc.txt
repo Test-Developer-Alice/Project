@@ -1,3 +1,4 @@
 cherry
 PB1: a
 PB2: b, b2, b3
+PB3: c,c2
