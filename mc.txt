@@ -1,2 +1,2 @@
 cherry
-PB1: a, a1
+PB1: a, a2, a3
