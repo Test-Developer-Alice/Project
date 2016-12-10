@@ -13,6 +13,7 @@ Method 1
 Method 2
 Method 3
 Method 4
+/*Bob comment*/
 
 h1. Chapter 3
 Proc 1
